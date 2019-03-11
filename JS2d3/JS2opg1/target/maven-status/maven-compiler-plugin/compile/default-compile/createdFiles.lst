@@ -1,0 +1,4 @@
+filter\CorsRequestFilter.class
+rest\GenericResource.class
+filter\CorsFilter.class
+rest\ApplicationConfig.class
